@@ -1,0 +1,478 @@
+[
+    {
+        "name": "Feb 18",
+        "gym": 20,
+        "code": 120,
+        "swimming": 20,
+        "research": 10
+    },
+    {
+        "name": "Feb 19",
+        "gym": 130,
+        "code": 140,
+        "swimming": 220,
+        "research": 160
+    },
+    {
+        "name": "Feb 20",
+        "gym": 120,
+        "code": 100,
+        "swimming": 20,
+        "research": 90
+    },
+    {
+        "name": "Feb 21",
+        "gym": 90,
+        "code": 30,
+        "swimming": 120,
+        "research": 10
+    },
+    {
+        "name": "Feb 22",
+        "gym": 90,
+        "code": 85,
+        "swimming": 100,
+        "research": 120
+    },
+    {
+        "name": "Feb 23",
+        "gym": 190,
+        "code": 50,
+        "swimming": 90,
+        "research": 100
+    },
+    {
+        "name": "Feb 24",
+        "gym": 90,
+        "code": 30,
+        "swimming": 120,
+        "research": 20
+    },
+    {
+        "name": "Feb 25",
+        "gym": 120,
+        "code": 10,
+        "swimming": 40,
+        "research": 90
+    },
+    {
+        "name": "Feb 26",
+        "gym": 100,
+        "code": 70,
+        "swimming": 70,
+        "research": 50
+    },
+    {
+        "name": "Feb 27",
+        "gym": 90,
+        "code": 150,
+        "swimming": 80,
+        "research": 160
+    },
+    {
+        "name": "Feb 28",
+        "gym": 100,
+        "code": 160,
+        "swimming": 80,
+        "research": 70
+    },
+    {
+        "name": "Mar 01",
+        "gym": 120,
+        "code": 100,
+        "swimming": 20,
+        "research": 300
+    },
+    {
+        "name": "Mar 02",
+        "gym": 90,
+        "code": 110,
+        "swimming": 60,
+        "research": 100
+    },
+    {
+        "name": "Mar 03",
+        "gym": 80,
+        "code": 90,
+        "swimming": 120,
+        "research": 70
+    },
+    {
+        "name": "Mar 04",
+        "gym": 50,
+        "code": 180,
+        "swimming": 120,
+        "research": 90
+    },
+    {
+        "name": "Mar 05",
+        "gym": 10,
+        "code": 130,
+        "swimming": 120,
+        "research": 70
+    },
+    {
+        "name": "Mar 06",
+        "gym": 90,
+        "code": 100,
+        "swimming": 120,
+        "research": 200
+    },
+    {
+        "name": "Mar 07",
+        "gym": 200,
+        "code": 100,
+        "swimming": 120,
+        "research": 90
+    },
+    {
+        "name": "Mar 08",
+        "gym": 30,
+        "code": 200,
+        "swimming": 120,
+        "research": 70
+    },
+    {
+        "name": "Mar 09",
+        "gym": 120,
+        "code": 180,
+        "swimming": 120,
+        "research": 220
+    },
+    {
+        "name": "Mar 10",
+        "gym": 190,
+        "code": 110,
+        "swimming": 160,
+        "research": 150
+    },
+    {
+        "name": "Mar 11",
+        "gym": 10,
+        "code": 90,
+        "swimming": 120,
+        "research": 60
+    },
+    {
+        "name": "Mar 12",
+        "gym": 30,
+        "code": 80,
+        "swimming": 120,
+        "research": 100
+    },
+    {
+        "name": "Mar 13",
+        "gym": 90,
+        "code": 180,
+        "swimming": 120,
+        "research": 30
+    },
+    {
+        "name": "Mar 14",
+        "gym": 90,
+        "code": 100,
+        "swimming": 210,
+        "research": 200
+    },
+    {
+        "name": "Mar 15",
+        "gym": 80,
+        "code": 100,
+        "swimming": 120,
+        "research": 30
+    },
+    {
+        "name": "Mar 16",
+        "gym": 122,
+        "code": 144,
+        "swimming": 110,
+        "research": 46
+    },
+    {
+        "name": "Mar 17",
+        "gym": 90,
+        "code": 120,
+        "swimming": 125,
+        "research": 56
+    },
+    {
+        "name": "Mar 18",
+        "gym": 320,
+        "code": 120,
+        "swimming": 180,
+        "research": 40
+    },
+    {
+        "name": "Mar 19",
+        "gym": 60,
+        "code": 60,
+        "swimming": 20,
+        "research": 90
+    },
+    {
+        "name": "Mar 20",
+        "gym": 10,
+        "code": 90,
+        "swimming": 30,
+        "research": 70
+    },
+    {
+        "name": "Mar 21",
+        "gym": 46,
+        "code": 82,
+        "swimming": 61,
+        "research": 80
+    },
+    {
+        "name": "Mar 22",
+        "gym": 70,
+        "code": 20,
+        "swimming": 80,
+        "research": 20
+    },
+    {
+        "name": "Mar 23",
+        "gym": 92,
+        "code": 58,
+        "swimming": 10,
+        "research": 35
+    },
+    {
+        "name": "Mar 24",
+        "gym": 113,
+        "code": 151,
+        "swimming": 74,
+        "research": 200
+    },
+    {
+        "name": "Mar 25",
+        "gym": 126,
+        "code": 180,
+        "swimming": 220,
+        "research": 121
+    },
+    {
+        "name": "Mar 26",
+        "gym": 171,
+        "code": 152,
+        "swimming":20,
+        "research": 210
+    },
+    {
+        "name": "Mar 27",
+        "gym": 90,
+        "code": 60,
+        "swimming": 80,
+        "research": 90
+    },
+    {
+        "name": "Mar 28",
+        "gym": 81,
+        "code": 71,
+        "swimming": 90,
+        "research": 40
+    },
+    {
+        "name": "Mar 29",
+        "gym": 180,
+        "code": 60,
+        "swimming": 90,
+        "research": 10
+    },
+    {
+        "name": "Mar 30",
+        "gym": 130,
+        "code": 220,
+        "swimming": 60,
+        "research": 70
+    },
+    {
+        "name": "Mar 31",
+        "gym": 90,
+        "code": 70,
+        "swimming": 40,
+        "research": 10
+    },
+    {
+        "name": "Apr 01",
+        "gym": 120,
+        "code": 140,
+        "swimming": 220,
+        "research": 10
+    },
+    {
+        "name": "Apr 02",
+        "gym": 112,
+        "code": 150,
+        "swimming": 10,
+        "research": 90
+    },
+    {
+        "name": "Apr 03",
+        "gym": 159,
+        "code": 110,
+        "swimming": 30,
+        "research": 50
+    },
+    {
+        "name": "Apr 04",
+        "gym": 184,
+        "code": 160,
+        "swimming": 16,
+        "research": 89
+    },
+    {
+        "name": "Apr 05",
+        "gym": 29,
+        "code": 80,
+        "swimming": 30,
+        "research": 80
+    },
+    {
+        "name": "Apr 06",
+        "gym": 40,
+        "code": 180,
+        "swimming": 60,
+        "research": 90
+    },
+    {
+        "name": "Apr 07",
+        "gym": 120,
+        "code": 180,
+        "swimming": 120,
+        "research": 100
+    },
+    {
+        "name": "Apr 08",
+        "gym": 70,
+        "code": 10,
+        "swimming": 30,
+        "research": 70
+    },
+    {
+        "name": "Apr 09",
+        "gym": 71,
+        "code": 10,
+        "swimming": 80,
+        "research": 80
+    },
+    {
+        "name": "Apr 10",
+        "gym": 110,
+        "code": 90,
+        "swimming": 10,
+        "research": 50
+    },
+    {
+        "name": "Apr 11",
+        "gym": 123,
+        "code": 151,
+        "swimming": 20,
+        "research": 71
+    },
+    {
+        "name": "Apr 12",
+        "gym": 68,
+        "code": 170,
+        "swimming": 20,
+        "research": 10
+    },
+    {
+        "name": "Apr 13",
+        "gym": 10,
+        "code": 180,
+        "swimming": 210,
+        "research": 71
+    },
+    {
+        "name": "Apr 14",
+        "gym": 110,
+        "code": 170,
+        "swimming": 20,
+        "research": 70
+    },
+    {
+        "name": "Apr 15",
+        "gym": 121,
+        "code": 171,
+        "swimming": 130,
+        "research": 70
+    },
+    {
+        "name": "Apr 16",
+        "gym": 110,
+        "code": 180,
+        "swimming": 120,
+        "research": 11
+    },
+    {
+        "name": "Apr 17",
+        "gym": 180,
+        "code": 179,
+        "swimming": 120,
+        "research": 60
+    },
+    {
+        "name": "Apr 18",
+        "gym": 70,
+        "code": 10,
+        "swimming": 120,
+        "research": 60
+    },
+    {
+        "name": "Apr 19",
+        "gym": 110,
+        "code": 20,
+        "swimming": 20,
+        "research": 60
+    },
+    {
+        "name": "Apr 20",
+        "gym": 120,
+        "code": 140,
+        "swimming": 20,
+        "research": 10
+    },
+    {
+        "name": "Apr 21",
+        "gym": 10,
+        "code": 150,
+        "swimming": 20,
+        "research": 70
+    },
+    {
+        "name": "Apr 22",
+        "gym": 60,
+        "code": 190,
+        "swimming": 30,
+        "research": 50
+    },
+    {
+        "name": "Apr 23",
+        "gym": 45,
+        "code": 65,
+        "swimming": 30,
+        "research": 70
+    },
+    {
+        "name": "Apr 24",
+        "gym": 78,
+        "code": 87,
+        "swimming": 65,
+        "research": 45
+    },
+    {
+        "name": "Apr 25",
+        "gym": 70,
+        "code": 140,
+        "swimming": 27,
+        "research": 50
+    },
+    {
+        "name": "Apr 26",
+        "gym": 80,
+        "code": 90,
+        "swimming": 40,
+        "research": 90
+    }
+]
